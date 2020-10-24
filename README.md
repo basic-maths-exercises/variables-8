@@ -27,7 +27,7 @@ and so on for all subsequent elements.
 
 ````
 print( timesTable )
-```
+````
 
 Make sure to run your code and to see what the output looks like before running the tests.
 
