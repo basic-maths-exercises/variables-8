@@ -2,7 +2,7 @@
 
 Good work on completing the last task.  You clearly understand the code so lets now follow the first rule or programming and make it shorter.  
 
-In this first exercise, we are going to reduce the number of variables we have used from 12 down to 2 by using arrays.  An array is essentially a list of N numbers.  We can create an array containing 11 elements by using the following command*:
+In this first exercise, we are going to reduce the number of variables we have used from 12 down to 2 by using arrays.  An array is essentially a list of N numbers.  We can create an array containing 11 elements by using the following command:
 
 ````
 timesTable = np.zeros(11)
