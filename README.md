@@ -31,6 +31,8 @@ print( timesTable )
 
 Make sure to run your code and to see what the output looks like before running the tests.
 
+***
+
 Notice that for the command:
 
 ```
