@@ -12,4 +12,4 @@ class UnitTests(unittest.TestCase) :
        
     def test_variableExists(self) : 
        self.assertTrue( "table" in globals(), "no variable called table has been defined in your program" )
-       self.assertTrue( "timesTable" in globals() "no variable called timesTable has been defined in your program" )
+       self.assertTrue( "timesTable" in globals(), "no variable called timesTable has been defined in your program" )
