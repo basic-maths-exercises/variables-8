@@ -45,6 +45,6 @@ to work we need to have the command:
 import numpy as np
 ```
 
-at the top of the program.  As you will hopefully learn in future this command allows us to use functionality from something called numpy that sits on top of the Python programming language.  In theory, we can use Python lists (which are a bit like arrays) to complete this task.  The advantage of using lists is that we then do not need to import the functionality from numpy.  NumPy arrays, however, are, unlike lists, specifically designed for doing maths, which is why I am using them here. 
+at the top of the program.  As you will hopefully learn in future this command allows us to use functionality from something called NumPy that sits on top of the Python programming language.  In theory, we can use Python lists (which are a bit like arrays) to complete this task.  The advantage of using lists is that we then do not need to import the functionality from numpy.  NumPy arrays, however, are, unlike lists, specifically designed for doing maths, which is why I am using them here. 
 
 
