@@ -8,6 +8,7 @@ except:
     import AutoFeedback.varchecks as vc
 
 import unittest
+from main import *
 
 class UnitTests(unittest.TestCase) :
     def test_arrayValues(self) : 
