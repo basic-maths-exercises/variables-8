@@ -18,7 +18,7 @@ We can then set the second element using:
 
 ```python
 timesTable[1] = 7
-````
+```
 
 and so on for all subsequent elements.
 
